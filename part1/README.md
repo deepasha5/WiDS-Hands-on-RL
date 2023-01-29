@@ -1,6 +1,6 @@
-# Week 1
+# Part 1
 
-In this week, we will cover multi-armed bandits and markov decision processes. 
+In this part, we will cover multi-armed bandits and markov decision processes.
 
 ## Chapter 1 of Sutton and Barto (optional reading)
 
@@ -22,6 +22,12 @@ This challenge, and the connections between bandits and RL will become more and 
 
 These sections will introduce you to Markov Decision Processes and their mathematical formulation. These will be a key element of our study of RL ahead.
 
-## Lectures 6 and 8 from [CS747](https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2022/index.html)
+## Lectures 6 and 8 from [CS747](https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs747-a2022/index.html)
 
 The lectures cover definitions for Policies, Value functions, Evaluation, as well as the optimality operator and will introduce you to a technique called value iteration used to find the optimal value function.
+
+## Assignment 1: Bandit Algorithms
+
+You can find the first programming assignment which is based on bandit algorithms [here](./assignment1). Instructions for the assignment are in the jupyter notebook linked [here](./assignment1/bandits_exercise.ipynb).
+
+Completion of this assignment is a compulsory requirement of the project.
